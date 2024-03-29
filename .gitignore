@@ -1,0 +1,15 @@
+# packages
+*.tar.xz
+*.tar.bz2
+
+# Main
+02_u-boot/u-boot
+03_kernel/linux
+04_rfs/busybox-1.24.1
+
+
+04_rfs/RFS/lib/*
+04_rfs/RFS/bin/
+04_rfs/RFS/sbin/
+04_rfs/RFS/usr/
+04_rfs/RFS/linuxrc
